@@ -1,3 +1,3 @@
 # visa-projekti
 
-![/asset/Eläinvisa.png]
+![../asset/Eläinvisa.png]
