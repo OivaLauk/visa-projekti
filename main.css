@@ -2,7 +2,6 @@ body {background-color: #6DCFFB;}
 
 .div1 {
     background-color: #0c0c0d;
-<<<<<<< HEAD
     height: auto;
     display: flex;
     flex-direction: row;
@@ -30,16 +29,10 @@ body {background-color: #6DCFFB;}
     font-size: 130%;
     color: white;
     border-radius: 10px;
-=======
->>>>>>> 9dd2f42aa3883e39b1125d14c26ac5d145d764e0
 }
 
 p {
     color: white;
 }
 
-<<<<<<< HEAD
 h1, h2 {color: white;}
-=======
-h1 {color: white;}
->>>>>>> 9dd2f42aa3883e39b1125d14c26ac5d145d764e0
