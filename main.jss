@@ -1,1 +1,0 @@
-let pisteet = 0
